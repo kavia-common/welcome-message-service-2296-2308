@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/welcome-message-service-2296-2308/fastapi_backend"
+}
